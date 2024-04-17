@@ -1,5 +1,5 @@
 {
-    "url": "https://CodeRunne.github.io/ton-counter",
+    "url": "https://toncounterdapp.netlify.app/",
     "name": "My TWA Counter",
-    "iconUrl": "https://CodeRunne.github.io/ton-counter/logo.png"
+    "iconUrl": "https://raw.githubusercontent.com/CodeRunne/ton-counter/main/public/logo.jpg"
   }
